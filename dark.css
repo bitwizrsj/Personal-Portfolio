@@ -1,0 +1,250 @@
+/* Dark Mode Styles */
+
+/* Additional styles for dark mode */
+.dark-mode {
+    background-color: #14131a;
+    color: #fff;
+}
+
+.dark-mode a {
+    color: #fff; /* Change link color in dark mode */
+}
+
+.dark-mode .sidebar {
+    background-color: 1c1b23;
+    border-right: 1px solid #555;
+}
+
+.dark-mode .top-header {
+    background-color: 1c1b23;
+}
+
+.dark-mode .color-dots {
+    background-color: 1c1b23;
+}
+
+.dark-mode .header-buttons {
+    background-color: 1c1b23;
+}
+
+.dark-mode .sidebar a {
+    color: #fff; /* Change text color for sidebar links in dark mode */
+}
+
+.dark-mode .sidebar i {
+    color: #fff; /* Change icon color in dark mode */
+}
+
+.dark-mode .sidebar header {
+    color: #fff; /* Change header text color in dark mode */
+}
+
+.dark-mode .sidebar a:hover {
+    background-color: #444; /* Change hover background color in dark mode */
+}
+
+.dark-mode .sidebar .card {
+    background-color: #444; /* Change card background color in dark mode */
+    color: #fff; /* Change card text color in dark mode */
+}
+
+.dark-mode .content {
+    background-color: #14131a;
+}
+
+.dark-mode .content h1,
+.dark-mode .content p,
+.dark-mode .content header {
+    color: #fff; /* Change text color in dark mode */
+}
+
+
+/* Styles for "What I Know" Section */
+.dark-mode .knowledge-section {
+    background-color: #333;
+    color: #fff;
+}
+
+.dark-mode .grid::after {
+    background-color: #555;
+}
+
+.dark-mode h3 {
+    color: #fff;
+}
+
+.dark-mode ul {
+    color: #fff;
+}
+
+/* Styles for "Projects" Section */
+.dark-mode .projects {
+    background-color: #333;
+    color: #fff;
+}
+
+.dark-mode .project-box {
+    border: 2px solid #666;
+}
+
+.dark-mode .project-details {
+    background-color: #444;
+    color: #fff;
+}
+
+.dark-mode .project-details h4 {
+    color: #fff;
+}
+
+/* Dark Mode Styles for Slider Container */
+.dark-mode .slider-container {
+    background-color:  #14131a;
+    border-radius: 10px;
+    padding: 20px;
+    overflow-x: auto;
+    scrollbar-width: thin;
+    scrollbar-color: #1a0303 #040101; /* Adjust the scrollbar color in dark mode */
+}
+
+/* Additional styles for dark mode */
+.dark-mode {
+    background-color: #14131a;
+    color: #fff;
+}
+
+.dark-mode a {
+    color: #fff; /* Change link color in dark mode */
+}
+
+.dark-mode .sidebar {
+    background-color: 1c1b23;
+    border-right: 1px solid #555;
+}
+
+.dark-mode .top-header {
+    background-color: 1c1b23;
+}
+
+.dark-mode .color-dots {
+    background-color: 1c1b23;
+}
+
+.dark-mode .header-buttons {
+    background-color: 1c1b23;
+}
+
+.dark-mode .sidebar a {
+    color: #fff; /* Change text color for sidebar links in dark mode */
+}
+
+.dark-mode .sidebar i {
+    color: #fff; /* Change icon color in dark mode */
+}
+
+.dark-mode .sidebar header {
+    color: #fff; /* Change header text color in dark mode */
+}
+
+.dark-mode .sidebar a:hover {
+    background-color: #444; /* Change hover background color in dark mode */
+}
+
+.dark-mode .sidebar .card {
+    background-color: #444; /* Change card background color in dark mode */
+    color: #fff; /* Change card text color in dark mode */
+}
+
+.dark-mode .content {
+    background-color: #14131a;
+}
+
+.dark-mode .content h1,
+.dark-mode .content p,
+.dark-mode .content header {
+    color: #fff; /* Change text color in dark mode */
+}
+
+
+.dark-mode .technologies li {
+    background-color: yellow;
+    color: #000000;
+}
+
+/* ohter project  */
+
+.dark-mode .major-section,
+.dark-mode .minor-section {
+    background-color: #000000;
+    color: #fff;
+}
+
+.dark-mode .project-box1 {
+    border: 2px solid #555;
+    background-color: #444;
+}
+
+.dark-mode .project-box1:hover {
+    background-color: #555;
+}
+
+.dark-mode .project-box1:hover .project-text1 h3 {
+    color: #fff;
+}
+
+.dark-mode .project-box1:hover .project-text1 p {
+    color: #ddd;
+}
+
+.dark-mode .project-image1 {
+    background-color: #555;
+}
+
+/* about me */
+
+.dark-mode .about-container {
+    background-color: #000000; 
+}
+
+.dark-mode .pre {
+    color: #ccc; 
+}
+
+.dark-mode .timeline-year p {
+    color: #040101;
+    background-color: yellow;
+}
+
+.dark-mode .timeline-item:nth-child(even) {
+    border-left: orange solid; 
+}
+
+.dark-mode .timeline-item:nth-child(odd) {
+    border-left: magenta solid; 
+}
+
+.dark-mode .contact {
+    background-color: #000000; 
+    color: #fff; 
+}
+
+.dark-mode .formsec {
+    background-color: #000000; 
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); 
+}
+
+.dark-mode label {
+    color: #fff; 
+}
+
+.dark-mode input[type="text"]
+.dark-mode input[type="email"],
+.dark-mode textarea {
+    border: 1px solid #666; 
+    background-color: #232222; 
+    color: #fff; 
+}
+
+.dark-mode #submitButton {
+    background-color: #0066cc; 
+    color: #fff; 
+}
